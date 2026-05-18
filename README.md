@@ -17,7 +17,7 @@ Cartesian grid. Interface permittivities are evaluated with the harmonic mean.
 
 | Region | Permittivity |
 |--------|-------------|
-| TiO₂ film (y ≤ 10 nm) | ε = 50 |
+| TiO<sub>2</sub> film (y ≤ 10 nm) | ε = 50 |
 | Air (y > 10 nm) | ε = 1 |
 
 - **AFM tip**: hemisphere, R = 20 nm, φ = +5.5 V  
