@@ -1,7 +1,7 @@
 # FDM Simulation — Electrostatic Potential
 
 Finite-difference simulation of the electrostatic potential distribution in the
-C-AFM tip / TiO₂ / Pt bottom electrode geometry described in **Note S1** of the
+C-AFM tip / TiO<sub>2</sub> / Pt bottom electrode geometry described in **Note S1** of the
 Supporting Information.
 
 ## Physics
